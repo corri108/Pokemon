@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 22c2a2f5afa3f6b4faf71476c7506098
+timeCreated: 1463742145
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Trainer_7
+    21300002: Trainer_8
+    21300004: Trainer_9
+    21300006: Trainer_14
+    21300008: Trainer_15
+    21300010: Trainer_16
+    21300012: Trainer_21
+    21300014: Trainer_22
+    21300016: Trainer_23
+    21300018: Trainer_28
+    21300020: Trainer_29
+    21300022: Trainer_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Trainer_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 517
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trainer_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 519
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trainer_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 520
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trainer_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 402
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trainer_15
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 402
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trainer_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 412
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trainer_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 278
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trainer_22
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 277
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trainer_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 284
+        width: 91
+        height: 128
+      alignment: 9
+      pivot: {x: .500000358, y: .394129425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trainer_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 155
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trainer_29
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 155
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trainer_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 156
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

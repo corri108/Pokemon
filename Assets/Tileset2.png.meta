@@ -1,0 +1,3763 @@
+fileFormatVersion: 2
+guid: be07232c40e3d544caf7e66cc8d839a4
+timeCreated: 1463788063
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tileset2_0
+    21300002: Tileset2_1
+    21300004: Tileset2_2
+    21300006: Tileset2_3
+    21300008: Tileset2_4
+    21300010: Tileset2_5
+    21300012: Tileset2_6
+    21300014: Tileset2_7
+    21300016: Tileset2_8
+    21300018: Tileset2_9
+    21300020: Tileset2_10
+    21300022: Tileset2_11
+    21300024: Tileset2_12
+    21300026: Tileset2_13
+    21300028: Tileset2_14
+    21300030: Tileset2_15
+    21300032: Tileset2_16
+    21300034: Tileset2_17
+    21300036: Tileset2_18
+    21300038: Tileset2_19
+    21300040: Tileset2_20
+    21300042: Tileset2_21
+    21300044: Tileset2_22
+    21300046: Tileset2_23
+    21300048: Tileset2_24
+    21300050: Tileset2_25
+    21300052: Tileset2_26
+    21300054: Tileset2_27
+    21300056: Tileset2_28
+    21300058: Tileset2_29
+    21300060: Tileset2_30
+    21300062: Tileset2_31
+    21300064: Tileset2_32
+    21300066: Tileset2_33
+    21300068: Tileset2_34
+    21300070: Tileset2_35
+    21300072: Tileset2_36
+    21300074: Tileset2_37
+    21300076: Tileset2_38
+    21300078: Tileset2_39
+    21300080: Tileset2_40
+    21300082: Tileset2_41
+    21300084: Tileset2_42
+    21300086: Tileset2_43
+    21300088: Tileset2_44
+    21300090: Tileset2_45
+    21300092: Tileset2_46
+    21300094: Tileset2_47
+    21300096: Tileset2_48
+    21300098: Tileset2_49
+    21300100: Tileset2_50
+    21300102: Tileset2_51
+    21300104: Tileset2_52
+    21300106: Tileset2_53
+    21300108: Tileset2_54
+    21300110: Tileset2_55
+    21300112: Tileset2_56
+    21300114: Tileset2_57
+    21300116: Tileset2_58
+    21300118: Tileset2_59
+    21300120: Tileset2_60
+    21300122: Tileset2_61
+    21300124: Tileset2_62
+    21300126: Tileset2_63
+    21300128: Tileset2_64
+    21300130: Tileset2_65
+    21300132: Tileset2_66
+    21300134: Tileset2_67
+    21300136: Tileset2_68
+    21300138: Tileset2_69
+    21300140: Tileset2_70
+    21300142: Tileset2_71
+    21300144: Tileset2_72
+    21300146: Tileset2_73
+    21300148: Tileset2_74
+    21300150: Tileset2_75
+    21300152: Tileset2_76
+    21300154: Tileset2_77
+    21300156: Tileset2_78
+    21300158: Tileset2_79
+    21300160: Tileset2_80
+    21300162: Tileset2_81
+    21300164: Tileset2_82
+    21300166: Tileset2_83
+    21300168: Tileset2_84
+    21300170: Tileset2_85
+    21300172: Tileset2_86
+    21300174: Tileset2_87
+    21300176: Tileset2_88
+    21300178: Tileset2_89
+    21300180: Tileset2_90
+    21300182: Tileset2_91
+    21300184: Tileset2_92
+    21300186: Tileset2_93
+    21300188: Tileset2_94
+    21300190: Tileset2_95
+    21300192: Tileset2_96
+    21300194: Tileset2_97
+    21300196: Tileset2_98
+    21300198: Tileset2_99
+    21300200: Tileset2_100
+    21300202: Tileset2_101
+    21300204: Tileset2_102
+    21300206: Tileset2_103
+    21300208: Tileset2_104
+    21300210: Tileset2_105
+    21300212: Tileset2_106
+    21300214: Tileset2_107
+    21300216: Tileset2_108
+    21300218: Tileset2_109
+    21300220: Tileset2_110
+    21300222: Tileset2_111
+    21300224: Tileset2_112
+    21300226: Tileset2_113
+    21300228: Tileset2_114
+    21300230: Tileset2_115
+    21300232: Tileset2_116
+    21300234: Tileset2_117
+    21300236: Tileset2_118
+    21300238: Tileset2_119
+    21300240: Tileset2_120
+    21300242: Tileset2_121
+    21300244: Tileset2_122
+    21300246: Tileset2_123
+    21300248: Tileset2_124
+    21300250: Tileset2_125
+    21300252: Tileset2_126
+    21300254: Tileset2_127
+    21300256: Tileset2_128
+    21300258: Tileset2_129
+    21300260: Tileset2_130
+    21300262: Tileset2_131
+    21300264: Tileset2_132
+    21300266: Tileset2_133
+    21300268: Tileset2_134
+    21300270: Tileset2_135
+    21300272: Tileset2_136
+    21300274: Tileset2_137
+    21300276: Tileset2_138
+    21300278: Tileset2_139
+    21300280: Tileset2_140
+    21300282: Tileset2_141
+    21300284: Tileset2_142
+    21300286: Tileset2_143
+    21300288: Tileset2_144
+    21300290: Tileset2_145
+    21300292: Tileset2_146
+    21300294: Tileset2_147
+    21300296: Tileset2_148
+    21300298: Tileset2_149
+    21300300: Tileset2_150
+    21300302: Tileset2_151
+    21300304: Tileset2_152
+    21300306: Tileset2_153
+    21300308: Tileset2_154
+    21300310: Tileset2_155
+    21300312: Tileset2_156
+    21300314: Tileset2_157
+    21300316: Tileset2_158
+    21300318: Tileset2_159
+    21300320: Tileset2_160
+    21300322: Tileset2_161
+    21300324: Tileset2_162
+    21300326: Tileset2_163
+    21300328: Tileset2_164
+    21300330: Tileset2_165
+    21300332: Tileset2_166
+    21300334: Tileset2_167
+    21300336: Tileset2_168
+    21300338: Tileset2_169
+    21300340: Tileset2_170
+    21300342: Tileset2_171
+    21300344: Tileset2_172
+    21300346: Tileset2_173
+    21300348: Tileset2_174
+    21300350: Tileset2_175
+    21300352: Tileset2_176
+    21300354: Tileset2_177
+    21300356: Tileset2_178
+    21300358: Tileset2_179
+    21300360: Tileset2_180
+    21300362: Tileset2_181
+    21300364: Tileset2_182
+    21300366: Tileset2_183
+    21300368: Tileset2_184
+    21300370: Tileset2_185
+    21300372: Tileset2_186
+    21300374: Tileset2_187
+    21300376: Tileset2_188
+    21300378: Tileset2_189
+    21300380: Tileset2_190
+    21300382: Tileset2_191
+    21300384: Tileset2_192
+    21300386: Tileset2_193
+    21300388: Tileset2_194
+    21300390: Tileset2_195
+    21300392: Tileset2_196
+    21300394: Tileset2_197
+    21300396: Tileset2_198
+    21300398: Tileset2_199
+    21300400: Tileset2_200
+    21300402: Tileset2_201
+    21300404: Tileset2_202
+    21300406: Tileset2_203
+    21300408: Tileset2_204
+    21300410: Tileset2_205
+    21300412: Tileset2_206
+    21300414: Tileset2_207
+    21300416: Tileset2_208
+    21300418: Tileset2_209
+    21300420: Tileset2_210
+    21300422: Tileset2_211
+    21300424: Tileset2_212
+    21300426: Tileset2_213
+    21300428: Tileset2_214
+    21300430: Tileset2_215
+    21300432: Tileset2_216
+    21300434: Tileset2_217
+    21300436: Tileset2_218
+    21300438: Tileset2_219
+    21300440: Tileset2_220
+    21300442: Tileset2_221
+    21300444: Tileset2_222
+    21300446: Tileset2_223
+    21300448: Tileset2_224
+    21300450: Tileset2_225
+    21300452: Tileset2_226
+    21300454: Tileset2_227
+    21300456: Tileset2_228
+    21300458: Tileset2_229
+    21300460: Tileset2_230
+    21300462: Tileset2_231
+    21300464: Tileset2_232
+    21300466: Tileset2_233
+    21300468: Tileset2_234
+    21300470: Tileset2_235
+    21300472: Tileset2_236
+    21300474: Tileset2_237
+    21300476: Tileset2_238
+    21300478: Tileset2_239
+    21300480: Tileset2_240
+    21300482: Tileset2_241
+    21300484: Tileset2_242
+    21300486: Tileset2_243
+    21300488: Tileset2_244
+    21300490: Tileset2_245
+    21300492: Tileset2_246
+    21300494: Tileset2_247
+    21300496: Tileset2_248
+    21300498: Tileset2_249
+    21300500: Tileset2_250
+    21300502: Tileset2_251
+    21300504: Tileset2_252
+    21300506: Tileset2_253
+    21300508: Tileset2_254
+    21300510: Tileset2_255
+    21300512: Tileset2_256
+    21300514: Tileset2_257
+    21300516: Tileset2_258
+    21300518: Tileset2_259
+    21300520: Tileset2_260
+    21300522: Tileset2_261
+    21300524: Tileset2_262
+    21300526: Tileset2_263
+    21300528: Tileset2_264
+    21300530: Tileset2_265
+    21300532: Tileset2_266
+    21300534: Tileset2_267
+    21300536: Tileset2_268
+    21300538: Tileset2_269
+    21300540: Tileset2_270
+    21300542: Tileset2_271
+    21300544: Tileset2_272
+    21300546: Tileset2_273
+    21300548: Tileset2_274
+    21300550: Tileset2_275
+    21300552: Tileset2_276
+    21300554: Tileset2_277
+    21300556: Tileset2_278
+    21300558: Tileset2_279
+    21300560: Tileset2_280
+    21300562: Tileset2_281
+    21300564: Tileset2_282
+    21300566: Tileset2_283
+    21300568: Tileset2_284
+    21300570: Tileset2_285
+    21300572: Tileset2_286
+    21300574: Tileset2_287
+    21300576: Tileset2_288
+    21300578: Tileset2_289
+    21300580: Tileset2_290
+    21300582: Tileset2_291
+    21300584: Tileset2_292
+    21300586: Tileset2_293
+    21300588: Tileset2_294
+    21300590: Tileset2_295
+    21300592: Tileset2_296
+    21300594: Tileset2_297
+    21300596: Tileset2_298
+    21300598: Tileset2_299
+    21300600: Tileset2_300
+    21300602: Tileset2_301
+    21300604: Tileset2_302
+    21300606: Tileset2_303
+    21300608: Tileset2_304
+    21300610: Tileset2_305
+    21300612: Tileset2_306
+    21300614: Tileset2_307
+    21300616: Tileset2_308
+    21300618: Tileset2_309
+    21300620: Tileset2_310
+    21300622: Tileset2_311
+    21300624: Tileset2_312
+    21300626: Tileset2_313
+    21300628: Tileset2_314
+    21300630: Tileset2_315
+    21300632: Tileset2_316
+    21300634: Tileset2_317
+    21300636: Tileset2_318
+    21300638: Tileset2_319
+    21300640: Tileset2_320
+    21300642: Tileset2_321
+    21300644: Tileset2_322
+    21300646: Tileset2_323
+    21300648: Tileset2_324
+    21300650: Tileset2_325
+    21300652: Tileset2_326
+    21300654: Tileset2_327
+    21300656: Tileset2_328
+    21300658: Tileset2_329
+    21300660: Tileset2_330
+    21300662: Tileset2_331
+    21300664: Tileset2_332
+    21300666: Tileset2_333
+    21300668: Tileset2_334
+    21300670: Tileset2_335
+    21300672: Tileset2_336
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Tileset2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_17
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_18
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_20
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 256
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_24
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_27
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_28
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_32
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_35
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_36
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_37
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_38
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_39
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_40
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_41
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 239
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_43
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_47
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_48
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_49
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_50
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_52
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_53
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_54
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_55
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_56
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_57
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_58
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_59
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_60
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_61
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_62
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 222
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_63
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_64
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_65
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_66
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_67
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_68
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_69
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_70
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_72
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_73
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_74
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_75
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_76
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_77
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_78
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_79
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_80
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_81
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_82
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_83
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 205
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_84
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_85
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_86
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_87
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_88
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_89
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_90
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_91
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_92
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_93
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_94
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_95
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_96
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_97
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_98
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_99
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_100
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_101
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_102
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_103
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_104
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 188
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_105
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_106
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_107
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_108
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_109
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_110
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_111
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_112
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_113
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_114
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_115
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_116
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_118
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_119
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_120
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_121
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_122
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_123
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_124
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_125
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 171
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_126
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_127
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_128
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_129
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_130
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_131
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_132
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_133
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_134
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_135
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_136
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_137
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_138
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_139
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_140
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_141
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_142
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_143
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_144
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_145
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_146
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 154
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_147
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_148
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_149
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_150
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_151
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_152
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_153
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_154
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_155
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_156
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_157
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_158
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_159
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_160
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_161
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_162
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_163
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_164
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_165
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_166
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_167
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 137
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_168
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_169
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_170
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_171
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_172
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_173
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_174
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_175
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_176
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_177
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_178
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_179
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_180
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_181
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_182
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_183
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_184
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_185
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_186
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_187
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_188
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_189
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_190
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_191
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_192
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_193
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_194
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_195
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_196
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_197
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_198
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_199
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_200
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_201
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_202
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_203
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_204
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_205
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_206
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_207
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_208
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_209
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 103
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_210
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_211
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_212
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_213
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_214
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_215
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_216
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_217
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_218
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_219
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_220
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_221
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_222
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_223
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_224
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_225
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_226
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_227
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_228
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_229
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_230
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 86
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_231
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_232
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_233
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_234
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_235
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_236
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_237
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_238
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_239
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_240
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_241
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_242
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_243
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_244
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_245
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_246
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_247
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_248
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_249
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_250
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_251
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 69
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_252
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_253
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_254
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_255
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_256
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_257
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_258
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_259
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_260
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_261
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_262
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_263
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_264
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_265
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_266
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_267
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_268
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_269
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_270
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_271
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_272
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 52
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_273
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_274
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_275
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_276
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_277
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_278
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_279
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_280
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_281
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_282
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_283
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_284
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_285
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_286
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_287
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_288
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_289
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_290
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_291
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_292
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_293
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 35
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_294
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_295
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_296
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_297
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_298
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_299
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_300
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_301
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_302
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_303
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_304
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_305
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_306
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_307
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_308
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_309
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_310
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_311
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_312
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_313
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_314
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 18
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_315
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_316
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_317
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_318
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_319
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_320
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_321
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_322
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_323
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_324
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_325
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_326
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_327
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_328
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_329
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_330
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_331
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_332
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_333
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_334
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_335
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tileset2_336
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
