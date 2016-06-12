@@ -75,6 +75,11 @@ public class Player : MonoBehaviour
 		DoMovement ();
 	}
 
+	void OnGUI()
+	{
+		GUI.Label (new Rect (10, 10, 100, 30), "X: " + location.x.ToString() + ", Y: " + location.y.ToString());
+	}
+
 	void Update()
 	{
 		if(justMoved)
@@ -84,12 +89,15 @@ public class Player : MonoBehaviour
 				//if(!ani.GetBool("WalkRight"))
 				//{
 				SetMovement("WalkRight");
-				moveTo = this.location + GridLocation.right;
+				moveTo = this.location;
 				
 				if(World.LayerRight(moveTo) != LayerMask.GetMask("Block"))
 				{
 					goMoveTo = World.GameobjectFromLocation(moveTo);
 					nextGridLoc = this.transform.position + Vector3.right;
+				}else 
+				{
+					Debug.Log("FUC");
 				}
 				//}
 			}
@@ -97,13 +105,17 @@ public class Player : MonoBehaviour
 			{
 				//if(!ani.GetBool("WalkLeft"))
 				//{
-				SetMovement("WalkLeft");
-				moveTo = this.location - GridLocation.right;
 				
 				if(World.LayerLeft(moveTo) != LayerMask.GetMask("Block"))
 				{
+					SetMovement("WalkLeft");
+					moveTo = this.location;
 					goMoveTo = World.GameobjectFromLocation(moveTo);
 					nextGridLoc = this.transform.position - Vector3.right;
+				}
+				else 
+				{
+					Debug.Log("FUC");
 				}
 				//}
 			}
@@ -112,12 +124,15 @@ public class Player : MonoBehaviour
 				//if(!ani.GetBool("WalkUp"))
 				//{
 				SetMovement("WalkUp");
-				moveTo = this.location + GridLocation.up;
+				moveTo = this.location;
 				
 				if(World.LayerAbove(moveTo) != LayerMask.GetMask("Block"))
 				{
 					goMoveTo = World.GameobjectFromLocation(moveTo);
 					nextGridLoc = this.transform.position + Vector3.up;
+				}else 
+				{
+					Debug.Log("FUC");
 				}
 				//}
 			}
@@ -126,12 +141,15 @@ public class Player : MonoBehaviour
 				//if(!ani.GetBool("WalkDown"))
 				//{
 				SetMovement("WalkDown");
-				moveTo = this.location - GridLocation.up;
+				moveTo = this.location;
 				
 				if(World.LayerBelow(moveTo) != LayerMask.GetMask("Block"))
 				{
 					goMoveTo = World.GameobjectFromLocation(moveTo);
 					nextGridLoc = this.transform.position - Vector3.up;
+				}else 
+				{
+					Debug.Log("FUC");
 				}
 				//}
 			}
@@ -149,7 +167,15 @@ public class Player : MonoBehaviour
 		}
 		if(Input.GetKeyDown(KeyCode.D) ||Input.GetKeyDown(KeyCode.RightArrow))
 		{
-			nextDirection = WalkDirection.Right;
+			if(World.LayerRight(location) != LayerMask.GetMask("Block"))
+			{	
+				nextDirection = WalkDirection.Right;
+			}
+			else
+			{
+				
+				Debug.Log ("FUCK");
+			}
 		}
 		if(Input.GetKeyDown(KeyCode.A) ||Input.GetKeyDown(KeyCode.LeftArrow))
 		{
@@ -172,16 +198,48 @@ public class Player : MonoBehaviour
 			switch(walkingDir)
 			{
 			case WalkDirection.Right:
-				this.transform.position += Vector3.right * moveSpeed;
+				if(World.LayerRight(moveTo) != 8)
+				{
+					this.transform.position += Vector3.right * moveSpeed;
+				}
+				else
+				{
+					SetMovement("None");
+					nextGridLoc -= Vector3.right;
+				}
 				break;
 			case WalkDirection.Left:
-				this.transform.position -= Vector3.right * moveSpeed;
+				if(World.LayerLeft(moveTo) != 8)
+				{
+					this.transform.position -= Vector3.right * moveSpeed;
+				}
+				else
+				{
+					SetMovement("None");
+					nextGridLoc += Vector3.right;
+				}
 				break;
 			case WalkDirection.Up:
-				this.transform.position += Vector3.up * moveSpeed;
+				if(World.LayerAbove(moveTo) != 8)
+				{
+					this.transform.position += Vector3.up * moveSpeed;
+				}
+				else
+				{
+					SetMovement("None");
+					nextGridLoc -= Vector3.up;
+				}
 				break;
 			case WalkDirection.Down:
-				this.transform.position -= Vector3.up * moveSpeed;
+				if(World.LayerBelow(moveTo) != 8)
+				{
+					this.transform.position -= Vector3.up * moveSpeed;
+				}
+				else
+				{
+					SetMovement("None");
+					nextGridLoc += Vector3.up;
+				}
 				break;
 			case WalkDirection.None:
 				//do nothing
@@ -193,6 +251,27 @@ public class Player : MonoBehaviour
 				this.transform.position = nextGridLoc;
 				isMoving = false;
 				justMoved = true;
+
+				//GameObject.Destroy(World.GameobjectFromLocation(location));
+
+				switch(walkingDir)
+				{
+					case WalkDirection.Right:
+					location += GridLocation.right;
+						break;
+					case WalkDirection.Left:
+					location -= GridLocation.right;
+						break;
+					case WalkDirection.Up:
+					location -= GridLocation.up;
+						break;
+					case WalkDirection.Down:
+					location += GridLocation.up;
+						break;
+					case WalkDirection.None:
+					//do nothing
+						break;
+				}
 			}
 		}
 	}

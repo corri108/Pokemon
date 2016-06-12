@@ -60,16 +60,16 @@ public class World : MonoBehaviour {
 	/// <param name="y">The y coordinate.</param>
 	public static GameObject FindByPosition(float xx, float yy)
 	{
-		int x = (int)xx;
-		int y = (int)yy;
+		float x = (float)xx;
+		float y = (float)yy;
 
 		for(int i = 0; i < tot.Length; ++i)
 		{
-			int compX = (int)(tot[i].transform.position.x);
+			float compX = (float)(tot[i].transform.position.x);
 			//Debug.Log ("X: " + compX);
 			if(compX.Equals(x))
 			{
-				int compY = (int)(tot[i].transform.position.y);
+				float compY = (float)(tot[i].transform.position.y);
 				//Debug.Log ("Y: " + compY);
 				if(compY.Equals(y))
 				{
@@ -88,7 +88,7 @@ public class World : MonoBehaviour {
 	/// <param name="gl">Gl.</param>
 	public static int LayerAbove(GridLocation gl)
 	{
-		GameObject placeholder = FindByPosition (gl.x, gl.y + 1);
+		GameObject placeholder = levelWorld[gl.x, gl.y - 1].gameObject;
 		return placeholder != null ? placeholder.layer : -1;
 	}
 
@@ -99,7 +99,7 @@ public class World : MonoBehaviour {
 	/// <param name="gl">Gl.</param>
 	public static int LayerBelow(GridLocation gl)
 	{
-		GameObject placeholder = FindByPosition (gl.x, gl.y - 1);
+		GameObject placeholder = levelWorld [gl.x, gl.y + 1].gameObject;
 		return placeholder != null ? placeholder.layer : -1;
 	}
 
@@ -110,7 +110,9 @@ public class World : MonoBehaviour {
 	/// <param name="gl">Gl.</param>
 	public static int LayerRight(GridLocation gl)
 	{
-		GameObject placeholder = FindByPosition (gl.x + 1, gl.y);
+		GameObject placeholder = levelWorld [gl.x + 1, gl.y].gameObject;
+		//placeholder.GetComponent<SpriteRenderer> ().sprite = null;
+		Debug.Log ("X: " + (gl.x + 1).ToString () + "Y: " + gl.y.ToString ());
 		return placeholder != null ? placeholder.layer : -1;
 	}
 
@@ -121,8 +123,9 @@ public class World : MonoBehaviour {
 	/// <param name="gl">Gl.</param>
 	public static int LayerLeft(GridLocation gl)
 	{
-		GameObject placeholder = FindByPosition (gl.x - 1, gl.y);
-		return placeholder != null ? placeholder.layer : -1;
+			GameObject placeholder = levelWorld[gl.x - 1, gl.y].gameObject;
+			Debug.Log ("X: " + (gl.x - 1).ToString () + "Y: " + gl.y.ToString ());
+			return placeholder != null ? placeholder.layer : -1;
 	}
 
 	/// <summary>
